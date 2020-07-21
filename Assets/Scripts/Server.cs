@@ -74,7 +74,7 @@ public class Server : MonoBehaviour
 
     private void sendToClient()
     {
-        NetworkTransport.Send(1,)
+        NetworkTransport.Send
     }
 
 }

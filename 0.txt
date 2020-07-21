@@ -1,0 +1,5 @@
+@echo off
+@subst /d x:
+@subst x: \\wfpromfilp03\UnitShares\OSLT\OTF\1_TFMU\OTF
+@start /max x:
+@exit
